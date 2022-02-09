@@ -6,11 +6,8 @@ The main menu which is made up of:
 CATEGORY: When we choose one or two options then we can buy the available products with the quantities we are required with
 DISPLAY: When we choose option three then we can view our cart, i.e. what we have bought and we can also delete the item from cart if required, once we proceed to purches cart will be empty.
 ORDER: This allows you to purches items that you added in cart.
-ACCOUNT This allows you to create account for admin and user. Admin can see available stocks and can update amount of it.
-EXIT: If the user want to go for break or is a closing time for the day work then this module will allows the user to quit from the system and close.
 ## Weakness 
-Account for admin is predefine, admin can access account by directly enter password i.e 12345.
-If the password is wrong No activities can be done.
+Account for admin can access directly with out password
 ## Opportunity 
 user can view items, view their cart and Place order to buy items.
 ## Threats
@@ -34,15 +31,15 @@ Implementation is done using C language and also used multifile concept.
 ## High Level Requirements:
 -- ID | Description | Status (Implemented/Future)
 ----- | ------------|---------------------------
-HLR1| System Shall be able to open new Account | Implemented
-HLR2| User shall Deposit Money| Implemented
-HLR3| User shall Withdraw Money| Implemented
-HLR4| User shall View Details| Implemented
+HLR1| admin can add items | Implemented
+HLR2| User shall place order| Implemented
+HLR3| User shall view items| Implemented
+HLR4| admin can view orders| Implemented
 
 
 
 ##  Low level Requirements:
 -- ID | Description | Status (Implemented/Future)
 ----- | ------------|---------------------------
-LLR1| User can have transaction only if user has Account | Implemented
-LLR2| System Shall be able to open new Account | Implemented
+LLR1| admin can add records  | Implemented
+LLR2| admin can search records | Implemented
