@@ -12,4 +12,4 @@
 
 # Hackerearth
 
-![Hackerearth](https://user-images.githubusercontent.com/59721830/152694214-dac97b37-753e-4e46-9b7c-5ce8a7718cae.png)
+![Hackerearth](https://user-images.githubusercontent.com/59721830/153194643-bdbd2de5-6475-4756-8372-1e286efe6b2d.png)
