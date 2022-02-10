@@ -7,8 +7,7 @@
 
  * Use case diagrams
 
-
-   ![use case diagram](https://user-images.githubusercontent.com/59721830/153240204-7af4125f-7bce-41a5-bd22-4aa804267691.png)
+![Use case](https://user-images.githubusercontent.com/59721830/153423694-a00a4b04-7c34-4052-bce2-d9a224a64a84.png)
 
 ## Structural
 
