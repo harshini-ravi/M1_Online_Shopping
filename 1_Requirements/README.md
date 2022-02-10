@@ -1,5 +1,5 @@
 # Introduction
-This application provides an ease to buy some products and do some sort of operations like create account, adding more quantity of products, deleting of product from cart, completing payment and accessing the stock information of the shopping mart.
+This application provides an ease to buy some products and do some sort of operations like add record of workers, adding more quantity of products, deleting of product from cart, completing payment and accessing the stock information of the shopping mart.
 # SWOT ANALYSIS
 ## Strength
 The main menu which is made up of:
