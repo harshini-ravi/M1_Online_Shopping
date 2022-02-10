@@ -1,11 +1,17 @@
 # Introduction
 This application provides an ease to buy some products and do some sort of operations like add record of workers, adding more quantity of products, deleting of product from cart, completing payment and accessing the stock information of the shopping mart.
+
 # SWOT ANALYSIS
 ## Strength
 The main menu which is made up of:
-CATEGORY: When we choose one or two options then we can buy the available products with the quantities we are required with
+
+CATEGORY :
+When we choose one or two options then we can buy the available products with the quantities we are required with
+
 DISPLAY: When we choose option three then we can view our cart, i.e. what we have bought and we can also delete the item from cart if required, once we proceed to purches cart will be empty.
+
 ORDER: This allows you to purches items that you added in cart.
+
 ## Weakness 
 Account for admin can access directly with out password
 ## Opportunity 
