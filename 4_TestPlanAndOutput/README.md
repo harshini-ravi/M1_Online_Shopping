@@ -1,14 +1,6 @@
-# Test Plan
-* For every feature, defien a test case
-    * How to run that feature
-    * Define expected behaviour
-    * Capture the actual result
+# Test Plan 
 
-# Table
-
- ID | Description of Test case| Input values|  Expected Output |Actual Output
------ | ------------|---------------------------| ------------|--------------
-HLR1| admin to add items | Implemented| Description |1
+ admin to add items | Implemented| Description |1
 HLR2| User to place order| Implemented| Description |1
 HLR3| User to view items| Implemented| Description |1
 HLR4| admin to view orders| Implemented| Description |1
@@ -16,7 +8,7 @@ HLR4| admin to add records| Implemented| Description |1
 HLR4| admin to search records| Implemented| Description |1
 
 
-| **Test ID** | **HLT ID** | **Description**                                              | **Exp IN** | **Exp OUT** | **Actual Out** |**PASS/FAIL**  |    
+| **Test ID** | **HLT ID** | **Description of Test case**      | **Exp IN** | **Exp OUT** | **Actual Out** |**PASS/FAIL**  |    
 |-------------|-----|--------------------------------------------------------------|------------|-------------|----------------|------------------|
 |  T_01|H_01| Provide required details for login to book a ticket| password| Successfully logined In | Successfully logined In| PASS |
 |  T_02|H_01| When wrong password is entered| Password|  Entered Password is wrong | Entered Password is wrong | PASS |
