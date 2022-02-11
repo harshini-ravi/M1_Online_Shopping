@@ -2,22 +2,35 @@
 * Login page
 
 
-
-![2022-02-09 (5)](https://user-images.githubusercontent.com/59721830/153244131-14703180-c1d3-4f03-bb3d-35682992b680.png)
-
-* Admin section
-
-
-
-![2022-02-09 (6)](https://user-images.githubusercontent.com/59721830/153244253-0a7f8e99-15b3-47c8-9fe4-ac5d6767762c.png)
-
 * Customer section
 
-
-
-![2022-02-09 (7)](https://user-images.githubusercontent.com/59721830/153244356-8dc2bb76-2d6e-46f7-af27-c6ad8d304465.png)
+![Login page](https://user-images.githubusercontent.com/59721830/153600187-9c5a40e9-ab70-4008-b3d7-2b038ac4c77e.png)
 
 * Cart 
 
+![Customer page 1](https://user-images.githubusercontent.com/59721830/153600295-2a70d7f9-9447-4576-b144-a86f35cf46ed.png)
 
-![2022-02-10 (7)](https://user-images.githubusercontent.com/59721830/153432150-3f567d8e-5146-4ebf-941f-1e5f3e88749b.png)
+* Add item 
+
+![Customer page 2](https://user-images.githubusercontent.com/59721830/153600371-36492798-c86c-401f-aa14-286458aa49b7.png)
+
+* Enter details
+
+![Customer page 3](https://user-images.githubusercontent.com/59721830/153601319-c12971dd-8033-49e1-9c1d-513152218383.png)
+
+* Admin section
+
+![Admin Section](https://user-images.githubusercontent.com/59721830/153600442-8904e40b-4c18-4816-b5f2-a9a416898b3b.png)
+
+* Add record
+
+![Add record](https://user-images.githubusercontent.com/59721830/153601081-a87d0e4f-65ba-447a-87c4-04ab0b85cdd8.png)
+
+* View record
+
+![View Record](https://user-images.githubusercontent.com/59721830/153601182-d141a241-f116-4451-992a-44d44caa9910.png)
+
+* Delete record
+
+
+![Delete record](https://user-images.githubusercontent.com/59721830/153601233-4ff0e30c-4436-4358-88e9-781896ac201b.png)
