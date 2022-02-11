@@ -33,5 +33,4 @@
 
 * Delete record
 
-
 ![Delete record](https://user-images.githubusercontent.com/59721830/153601233-4ff0e30c-4436-4358-88e9-781896ac201b.png)
