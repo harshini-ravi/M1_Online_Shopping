@@ -13,8 +13,8 @@
 
 |**Test ID**|**HL_ID**|**Description**|**Exp input**|**Exp Output**|**Actual Output**|
 |---|---|---|---|---|---|
-|L_01|	H_01|	Admin can delete records of employees|Choice|	SUCCESS|	SUCCESS
-|L_02|	H_01|	Admin can view records of employees|Choice	|	SUCCESS|	SUCCESS
-|L_03|	H_01|	Admin can search employees|Choice	|SUCCESS|	SUCCESS
-|L_04|	H_01|	Admin can view records of employees|Choice |	SUCCESS|	SUCCESS
+|L_01|	H_05|	Admin can delete records of employees|Choice|	SUCCESS|	SUCCESS
+|L_02|	H_05|	Admin can view records of employees|Choice	|	SUCCESS|	SUCCESS
+|L_03|	H_05|	Admin can search employees|Choice	|SUCCESS|	SUCCESS
+|L_04|	H_05|	Admin can view records of employees|Choice |	SUCCESS|	SUCCESS
 
