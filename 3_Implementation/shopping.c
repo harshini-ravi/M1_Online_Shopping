@@ -2,7 +2,7 @@
 #include<conio.h>
 #include<string.h>
 #include<stdlib.h>
-#include"func.c"
+#include "func.c"
 
 
 int main()
