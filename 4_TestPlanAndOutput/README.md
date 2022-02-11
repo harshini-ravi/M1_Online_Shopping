@@ -17,4 +17,3 @@
 |L_02|	H_05|	Admin can view records of employees|Choice	|	SUCCESS|	SUCCESS
 |L_03|	H_05|	Admin can search employees|Choice	|SUCCESS|	SUCCESS
 |L_04|	H_05|	Admin can view records of employees|Choice |	SUCCESS|	SUCCESS
-
