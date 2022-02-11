@@ -1,6 +1,7 @@
 ## Outputs
 * Login page
 
+![login page 1](https://user-images.githubusercontent.com/59721830/153637154-e7c8f5d8-b0f6-48bb-aa8f-266079ad0307.png)
 
 * Customer section
 
