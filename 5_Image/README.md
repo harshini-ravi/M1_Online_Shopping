@@ -1,6 +1,7 @@
 ## Outputs
 * Login page
 
+![login page 1](https://user-images.githubusercontent.com/59721830/153637154-e7c8f5d8-b0f6-48bb-aa8f-266079ad0307.png)
 
 * Customer section
 
@@ -31,6 +32,5 @@
 ![View Record](https://user-images.githubusercontent.com/59721830/153601182-d141a241-f116-4451-992a-44d44caa9910.png)
 
 * Delete record
-
 
 ![Delete record](https://user-images.githubusercontent.com/59721830/153601233-4ff0e30c-4436-4358-88e9-781896ac201b.png)
