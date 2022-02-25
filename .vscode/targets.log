@@ -8,7 +8,7 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Sat Feb 12 00:18:08 2022
+# Make data base, printed on Fri Feb 25 13:31:23 2022
 
 # Variables
 
@@ -21,7 +21,7 @@ USERPROFILE = C:\Users\dell3
 # environment
 LOCALAPPDATA = C:\Users\dell3\AppData\Local
 # environment
-VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-f0eb618d-2717-4ec0-8fab-ca5fb964dafe-sock
+VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-a8b36fe4-ebdd-4466-a805-22aeb4e0e224-sock
 # environment
 VSCODE_CWD = C:\Users\dell3\AppData\Local\Programs\Microsoft VS Code
 # environment
@@ -35,7 +35,7 @@ MAKE_COMMAND := make.exe
 # automatic
 @D = $(patsubst %/,%,$(patsubst %\,%,$(dir $@)))
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_19468_BQLNWZLJGDSUBFVF
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_16536_TTZEQGBZKKRSMEAV
 # environment
 VSCODE_HANDLES_UNCAUGHT_ERRORS = true
 # default
@@ -87,7 +87,7 @@ MAKEFILE_LIST :=
 # environment
 VSCODE_VERBOSE_LOGGING = true
 # environment
-VSCODE_PID = 19468
+VSCODE_PID = 16536
 # automatic
 ?D = $(patsubst %/,%,$(patsubst %\,%,$(dir $?)))
 # automatic
@@ -119,7 +119,7 @@ MAKELEVEL := 0
 # default
 MAKE = $(MAKE_COMMAND)
 # environment
-PATH = C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\dell3\AppData\Local\Programs\Microsoft VS Code\MinGW\bin;C:\Program Files\Git\cmd;C:\Users\dell3\AppData\Local\Microsoft\WindowsApps;C:\Users\dell3\AppData\Local\Programs\Microsoft VS Code\bin;C:\MinGW\bin;
+PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\dell3\AppData\Local\Programs\Microsoft VS Code\MinGW\bin;C:\Program Files\Git\cmd;C;C:\Users\dell3\AppData\Local\Microsoft\WindowsApps;C:\Users\dell3\AppData\Local\Programs\Microsoft VS Code\bin;C:\MinGW\bin;
 # environment
 ZES_ENABLE_SYSMAN = 1
 # environment
@@ -207,7 +207,7 @@ PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 140 Stepping 1, GenuineIntel
 
 # Directories
 
-# . (key e:/M1_Online_Shopping_App, mtime 1644603977): 11 files, no impossibilities.
+# . (key e:/M1_Online_Shopping_App, mtime 1644605973): 11 files, no impossibilities.
 
 # 11 files, no impossibilities in 1 directories.
 
@@ -272,6 +272,6 @@ GNUmakefile:
 # strcache performance: lookups = 21 / hit rate = 14%
 # hash-table stats:
 # Load=18/8192=0%, Rehash=0, Collisions=0/21=0%
-# Finished Make data base on Sat Feb 12 00:18:08 2022
+# Finished Make data base on Fri Feb 25 13:31:23 2022
 
  

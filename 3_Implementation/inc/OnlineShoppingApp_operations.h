@@ -1,3 +1,13 @@
+/**
+ * @file OnlineShoppingApp_operations.h
+ * @author Harshini R
+ * @brief Header file for OnlineShoppingApp Application 
+ *
+ */
+
+#ifndef __OnlineShoppingApp_OPERATIONS_H__
+#define __OnlineShoppingApp_OPERATIONS_H__
+
 #include<stdio.h>
 #include<conio.h>
 #include<string.h>
@@ -697,3 +707,4 @@ void aboutus(void)
 	mainmenu();
 }
 
+#endif
