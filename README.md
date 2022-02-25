@@ -1,6 +1,16 @@
 # M1_Online_Shopping_App
 Repository to implement the online shopping system.
 
+## code quality score
+
+![code quality score](https://api.codiga.io/project/31222/score/svg)
+
+## code grade
+
+![quality grade](https://api.codiga.io/project/31222/status/svg)
+
+
+
 
 ## Folder Structure
 Folder             | Description
