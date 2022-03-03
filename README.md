@@ -9,6 +9,10 @@ Repository to implement the online shopping system.
 
 ![quality grade](https://api.codiga.io/project/31222/status/svg)
 
+## cpp check
+
+[![cpp](https://github.com/harshini-ravi/M1_Online_Shopping_App/actions/workflows/c-cpp2.yml/badge.svg)](https://github.com/harshini-ravi/M1_Online_Shopping_App/actions/workflows/c-cpp2.yml)
+
 
 
 
